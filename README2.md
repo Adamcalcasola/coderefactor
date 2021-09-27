@@ -7,7 +7,7 @@ Improve the basic functionality of the Horiseon website and simplify the code so
 
 # Content Improvements
 * replaced generic section elements with more specific semantic HTML elements
-* added comments to clearly indicate section content
+* added comments to clearly indicate section content for HTML and CSS
 * improved functionality of site by fixing missing link in navigation bar
 * added alt messages to describe visual content 
 * added company name to head title
